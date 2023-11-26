@@ -1,3 +1,2 @@
-namespace: sonu-git-stage
 hello-world:
   replicaCount: 2
